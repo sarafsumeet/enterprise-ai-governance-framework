@@ -29,11 +29,10 @@ This framework bridges that gap with **scored, sector-specific checklists** that
 
 ## What's Included
 
-### 1. **Assessment Template** (`AI_Governance_Audit_Framework.xlsx`)
-- **Three sector-specific sheets**: Banking (APRA CPS 234), Insurance (Solvency II), SaaS (SOX 404 / ISO 27001)
-- **16 scored controls** across 4 governance areas
-- **Maturity scale**: 1 (Ad Hoc) → 5 (Optimized)
-- **Summary dashboard** with auto-calculated governance score
+### 1. **Assessment Template** (`AI_Governance_Audit_Framework_Extended.xlsx`)
+- **Interactive Version:** [👉 Open Workbook in Excel for Web](https://1drv.ms/x/c/8029e0f5e20b224c/IQAtzlhX8EX0To2nuEGL0SpVAc_9EyAq4gHp34siKYRvYSQ?e=Vvat1H)
+- **Six sector-specific sheets:** Banking, Insurance, Manufacturing, Automobile, Telecom, and Utility.
+- **16 scored controls** across 4 governance areas with a summary dashboard.
 
 ### 2. **Documentation**
 - **This README**: Overview and getting started
